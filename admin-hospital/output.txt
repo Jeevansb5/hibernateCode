@@ -1,0 +1,19 @@
+1.Save Admin
+2.Update Admin
+3.Find Admin By Id
+4.Verify Admin By Phone and password
+5.Verify Admin By Email and password
+6.Add Hospital
+7.Update Hospital
+8.Find Hospital By User Id
+9.Find Hospital By gst number
+enter your choice
+8
+Enter the id of admin to display the hospitals
+1
+Hospital ID: 1
+Name: appllo
+GST-NUMBER: abcd123
+Year-Of-Established: 1995
+Founder: abd
+City: bng
