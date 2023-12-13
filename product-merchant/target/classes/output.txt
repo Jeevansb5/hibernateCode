@@ -1,0 +1,21 @@
+1.Save Merchant
+2.Update Merchant
+3.Verify Merchant By Phone and password
+4.Verify Merchant By Email and password
+5.Delete Merchant By Id
+6.Add Product
+7.Update Product
+8.Find Products By Merchant Id
+9.Find Products By Brand
+10.Find Products By Category
+Enter Your Choice
+8
+Enter the merchant Id to find Products
+1
+Product Id:1
+Product Name:S23
+Brand:Samsung
+Category:mobile
+Description:50MP,battery4000Mh,Fastcharging
+Cost:79998.0
+Image Url:https://www.google.com/search?q=samsung+s23&client=firefox-b-d&sca

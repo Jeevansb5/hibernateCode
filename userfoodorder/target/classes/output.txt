@@ -1,0 +1,20 @@
+1.Save User
+2.Update User
+3.Find User By Id
+4.Verify User By Phone and password
+5.Verify User By Email and password
+6.Delete User By Id
+7.Add Food Order
+8.Update Order
+9.Find FoodOrder By User Id
+10.Cancel FoodOrder
+11.Exit
+Enter Your Choice
+3
+Enter the User Id find User
+1
+User Id :1
+User Name :abc
+User Phone :888
+User Email :abc@gmail.com
+User order :[org.jsp.user_foodorder.dto.FoodOrder@7cfac39f, org.jsp.user_foodorder.dto.FoodOrder@3a3ed300]
